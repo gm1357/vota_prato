@@ -16,6 +16,9 @@ pickle-email-*.html
 config/initializers/secret_token.rb
 config/secrets.yml
 
+# Igonore the database config file
+config/database.yml
+
 ## Environment normalization:
 /.bundle
 /vendor/bundle
